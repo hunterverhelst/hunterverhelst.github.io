@@ -4,9 +4,9 @@ permissions:
  pages: write
 on:
   push:
-    branches: [ "main", "gh-pages" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "main", "gh-pages" ]
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -33,6 +33,10 @@ jobs:
       with:
         # Path of the directory containing the static assets.
         path: website/build
-    - name: Deploy GitHub Pages site
-      uses: actions/deploy-pages@v4.0.4
+        
+  deploy:
+   runs-on: ubuntu-latest
+   steps:
+   - name: Deploy GitHub Pages site
+     uses: actions/deploy-pages@v4.0.4
           
