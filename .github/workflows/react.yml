@@ -35,6 +35,7 @@ jobs:
         path: website/build
         
   deploy:
+   needs: build
    runs-on: ubuntu-latest
    steps:
    - name: Deploy GitHub Pages site
