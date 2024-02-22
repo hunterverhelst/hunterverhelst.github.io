@@ -1,13 +1,3 @@
-# Welcome to My Webpage!
-This is currently under construction, but in the meantime, feel free to check me out or contact me at any of the places below.
+# hunterverhelst.github.io
 
-- [Resume and Contact Info](Hunter_Ver_Helst_Resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/hunterverhelst/)
-- [GitHub](https://github.com/hunterverhelst)
-- [GPGKey - pgp.com](https://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0x6922436A2C0B23A6)
-
-
-## What Is This Site?
-The main intention is for this to be a landing page to easily distribute information about myself in a professional context. If you stumbled upon this page, then chances are you have no idea who I am, but if you're hiring cybersecurity professionals then I encourage you to reach out!
-
-
+This repo contains the source code for [my website](https://hunterverhelst.com). It was built by modifying [heysangik/Linkees](https://github.com/heysagnik/Linkees) to support [Font Awesome Icons](https://github.com/FortAwesome/Font-Awesome). 
