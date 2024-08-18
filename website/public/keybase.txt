@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hunterverhelst
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hunterverhelst.com
+  * I am hunterverhelst (https://keybase.io/hunterverhelst) on keybase.
+  * I have a public key ASDPwwAH0POnLU8Mxc_R4KviRnEoa_vkc_GfTWP3adELaAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cfc30007d0f3a72d4f0cc5cfd1e0abe24671286bfbe473f19f4d63f769d10b680a",
+      "host": "keybase.io",
+      "kid": "0120cfc30007d0f3a72d4f0cc5cfd1e0abe24671286bfbe473f19f4d63f769d10b680a",
+      "uid": "2c1816bb56397c3a3eff70e3d2f85219",
+      "username": "hunterverhelst"
+    },
+    "merkle_root": {
+      "ctime": 1723987315,
+      "hash": "c073aa7dc90d5bcf5cff1d94820d1c2220d0892ae0fe0e152f9fd5c50b9e603453f4cd115636fdee904bde4fa96684fcf97bac30ecc35cd6ed63b9a3f6a57ae5",
+      "hash_meta": "112d6c618df46f7a4ebc447307a6ddbdc95839835301f4b5f966479c84198cd1",
+      "seqno": 26021823
+    },
+    "service": {
+      "entropy": "o0aiia4KkpF0f+gXtS6bmFyU",
+      "hostname": "hunterverhelst.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.3.1"
+  },
+  "ctime": 1723987349,
+  "expire_in": 504576000,
+  "prev": "92a0a28027fbbf48a0593d5c24c5b07b3e93856555b21352f816eaf3193cd649",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz8MAB9Dzpy1PDMXP0eCr4kZxKGv75HPxn01j92nRC2gKp3BheWxvYWTESpcCCMQgkqCigCf7v0igWT1cJMWwez6ThWVVshNS+Bbq8xk81knEIPAYVaKKEADdj+udWHQZp5mnvfRp8TrmBPerZuyA11SeAgHCo3NpZ8RAFsb4JJ+XHGpV4ZlZo+RDq52xrAvtE+hGupzQG1psJPoveoMK/jQdSfJGtskQYSY2JYd2+ofTprBLJaQDuNNFCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIrEZsq4ZfumWR0ja0fSE0i0uTvdD2p+d4JHru/i0aKRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hunterverhelst
+
+==================================================================
