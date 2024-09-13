@@ -4,7 +4,7 @@ import { faFilePdf } from '@fortawesome/free-regular-svg-icons';
 import './App.css';
 import { ItemType } from './packages/Linkees/src/ts';
 
-const linkedin_pfp = 'https://media.licdn.com/dms/image/C4D03AQHfzWPLpThM5Q/profile-displayphoto-shrink_400_400/0/1605864337297?e=1724284800&v=beta&t=YYT0m8Kg7TIVQRs0keCbWkjWLW4oAEsbg83uUvluL_A';
+const linkedin_pfp = '/avatar.jfif';
 
 const cards: ItemType[] = [
   {
