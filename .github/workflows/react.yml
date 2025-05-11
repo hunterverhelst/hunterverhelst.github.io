@@ -25,7 +25,6 @@ jobs:
 
     - name: Build
       run: |
-        cd website/
         cd website && npm install && npm run build
 
     - name: Upload GitHub Pages artifact
