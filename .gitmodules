@@ -1,0 +1,3 @@
+[submodule "website/src/submodules/Linkees"]
+	path = website/src/submodules/Linkees
+	url = https://github.com/hunterverhelst/Linkees

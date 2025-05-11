@@ -1,9 +1,9 @@
-import { CHANNEL_TYPES } from './packages/Linkees/src/constants'
-import Linkees from './packages/Linkees/src/index';
+import { CHANNEL_TYPES } from './submodules/Linkees/packages/Linkees/src/constants'
+import Linkees from './submodules/Linkees/packages/Linkees/src/index';
 import { faFilePdf } from '@fortawesome/free-regular-svg-icons';
 import { faKeybase } from '@fortawesome/free-brands-svg-icons'
 import './App.css';
-import { ItemType } from './packages/Linkees/src/ts';
+import { ItemType } from './submodules/Linkees/packages/Linkees/src/ts';
 
 const linkedin_pfp = '/avatar.jfif';
 
