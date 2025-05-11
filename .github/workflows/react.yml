@@ -1,7 +1,4 @@
 name: React Build
-permissions:
- id-token: write
- pages: write
 on:
   push:
     branches: [ "main" ]
@@ -26,6 +23,7 @@ jobs:
 
     - name: Build
       run: |
+
         cd website && npm install && npm run build
 
     - name: Upload GitHub Pages artifact
@@ -36,6 +34,10 @@ jobs:
         
   deploy:
    needs: build
+   permissions:
+    id-token: write
+    pages: write
+   if: ${{ github.ref_name == 'main' }}
    runs-on: ubuntu-latest
    steps:
    - name: Deploy GitHub Pages site
